@@ -1,2 +1,2 @@
-include ':app', ':live_library'
+include ':app', ':keeplive'
 rootProject.name='KeepAlive'

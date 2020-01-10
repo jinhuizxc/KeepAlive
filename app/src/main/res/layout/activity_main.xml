@@ -8,17 +8,5 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-    <Button
-        android:id="@+id/start"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="startKeepAlive"
-        android:text="startKeepAlive" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="stopKeepAlive"
-        android:text="stopKeepAlive"/>
 
 </LinearLayout>
