@@ -10,6 +10,11 @@ import com.fanjun.keeplive.config.ForegroundNotification;
 import com.fanjun.keeplive.config.ForegroundNotificationClickListener;
 import com.fanjun.keeplive.config.KeepLiveService;
 
+/**
+ * Cactus: 保活库，kotlin写的，kotlin的知识欠缺;
+ *
+ * 保活的方案也确实研究的少, 需要花时间搞明白;
+ */
 public class App extends Application {
 
     private static final String TAG = "KeepLive";
